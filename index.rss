@@ -2,6 +2,7 @@
 <title>Julia West's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 </channel></rss>

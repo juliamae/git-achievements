@@ -2,6 +2,7 @@
 <title>Julia West's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
@@ -21,5 +22,4 @@
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
